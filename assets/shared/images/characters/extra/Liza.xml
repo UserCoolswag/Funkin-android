@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Liza.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Liza dance0000" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza dance0001" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza dance0002" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza dance0003" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza dance0004" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza dance0005" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza dance0006" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza dance0007" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0000" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0001" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0002" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0003" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0004" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza left0005" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza left0006" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza left0007" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0000" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0001" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0002" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0003" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0004" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza down0005" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza down0006" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza down0007" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0000" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0001" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0002" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0003" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0004" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza up0005" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza up0006" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza up0007" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0000" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0001" x="0" y="0" width="506" height="970" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0002" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0003" x="507" y="33" width="513" height="964" frameX="-1" frameY="-1" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0004" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza right0005" x="1020" y="78" width="607" height="928"/>
+	<SubTexture name="Liza right0006" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+	<SubTexture name="Liza right0007" x="1632" y="90" width="510" height="969" frameX="-2" frameY="-4" frameWidth="302" frameHeight="700"/>
+</TextureAtlas>
